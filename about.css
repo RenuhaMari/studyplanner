@@ -1,0 +1,15 @@
+.aboutmess h1{
+    color:rgba(174, 108, 22, 0.932);
+    text-align: center;
+}
+.aboutmess h2{
+    color: rgba(83, 49, 8, 0.849);
+    text-align: center;
+}
+.aboutmess img{
+    padding-left: 250px;
+}
+.join{
+   text-decoration:underline;
+   text-decoration-style:wavy ;
+}
